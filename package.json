@@ -1,0 +1,29 @@
+{
+  "name": "projeto_netflix",
+  "version": "1.0.0",
+  "description": "Recriando o site da Netflix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx live-server src/"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicaschnei/Projeto_Netflix.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Mônica de Souza Schneider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monicaschnei/Projeto_Netflix/issues"
+  },
+  "homepage": "https://github.com/monicaschnei/Projeto_Netflix#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
